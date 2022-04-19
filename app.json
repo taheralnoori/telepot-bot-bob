@@ -6,8 +6,8 @@
         "google",
         "translator"
     ],
-    "website": "https://github.com/TG-AI/Translator-Chatbot",
-    "repository": "https://github.com/TG-AI/Translator-Chatbot",
+    "website": "https://github.com/taheralnoori/telepot-bot-bob",
+    "repository": "https://github.com/taheralnoori/telepot-bot-bob",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
