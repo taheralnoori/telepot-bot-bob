@@ -23,7 +23,7 @@ def handle(msg):
     elif command == '/time':
         bot.sendMessage(chat_id, str(datetime.datetime.now()))
 
-bot = telepot.Bot('216231970:AAEwAwyco6cFw5Z41o02GhShoFxuR5-SWsM')
+bot = telepot.Bot('BOT_TOKEN')
 bot.message_loop(handle)
 print 'I am listening ...'
 
