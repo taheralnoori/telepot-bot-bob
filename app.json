@@ -1,6 +1,6 @@
 {
-  "name": "Zect",
-  "description": "Zect, a telegram userbot with MongoDB database",
+  "name": "telepot",
+  "description": "telepot deploy  heroku",
   "env": {
     "BOT_TOKEN": {
       "description": "Get this value from @Botfather",
