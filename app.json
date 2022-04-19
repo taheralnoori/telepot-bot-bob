@@ -1,23 +1,7 @@
 {
-    "name": "Translator-telegram-bot",
-    "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
-    "keywords": [
-        "telegram",
-        "google",
-        "translator"
-    ],
-    "website": "https://github.com/taheralnoori/telepot-bot-bob",
-    "repository": "https://github.com/taheralnoori/telepot-bot-bob",
-    "env": {
-        "BOT_TOKEN": {
-            "description": "Your bot token",
-            "value": ""
-        }
-    },
-    "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
-    }
+  "name": "Heroku Telegram python deploy",
+  "description": "Heroku Telegram python deploy",
+  "repository": "https://github.com/AnshumanFauzdar/telegram-bot-heroku-deploy",
+  "logo": "http://pngimg.com/uploads/telegram/telegram_PNG36.png",
+  "keywords": ["node", "express", "static"]
 }
